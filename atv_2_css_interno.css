@@ -1,0 +1,32 @@
+
+
+#id1 {
+    width: 500px;
+    height: 500px;
+    background-color: #ffa500;
+}
+
+#id2 {
+    width: 100%;
+     float: right;
+      height: 50%;
+       background-color:#360c49");
+}
+
+#id3 {
+    width: 85%;
+     height: 20%;
+      background-color: rgb(43, 136, 134);
+}
+
+#id4 {color: #5a7530;
+width: 90%;
+height: 90%;
+}
+
+#p1 {
+    color:rgba(52, 149, 179, 0.63);
+     background-color:  rgb(0, 119, 255);
+      font-size: 30px;
+       font-family: monospace; font-weight:bold;
+}
